@@ -1,0 +1,13 @@
+{
+  "savingsGoalUid": "d84b33b2-05cf-4a8f-9b52-6cf95e5ed790",
+  "name": "New Mobile",
+  "target": {
+    "currency": "GBP",
+    "minorUnits": 1416
+  },
+  "totalSaved": {
+    "currency": "GBP",
+    "minorUnits": 1792
+  },
+  "savedPercentage": 126
+}

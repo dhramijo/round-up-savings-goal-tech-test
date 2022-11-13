@@ -1,0 +1,71 @@
+swagger: '2.0'
+info:
+  title: Starling Bank Round Up
+  description: Swagger for Starling Bank Round Up Savings Goal Service API Specification
+  termsOfService: 'https://www.example.com/terms'
+  contact:
+    name: Service Desk
+    email: ServiceDesk@imgarena.com
+  license:
+    name: open-licence
+    url: 'https://www.example.com/open-licence'
+  version: v1
+basePath: /api/v1
+schemes:
+  - https
+  - http
+produces:
+  - application/json; charset=utf-8
+paths:
+  /savings/update-goal-amount:
+    get:
+      tags:
+        - Savings Goal
+      summary: Update the Savings Goal Target Amount
+      operationId: matchId
+      parameters:
+        - name: "savingsGoalId"
+          in: "query"
+          description: "ID of the savings goal"
+          required: true
+          type: string
+        - name: "dateFrom"
+          in: "query"
+          description: Minimum transaction timestamp
+          required: false
+          type: string
+        - name: "dateTo"
+          in: "query"
+          description: "Maximum transaction timestamp"
+          required: false
+          type: string
+      responses:
+        '200':
+          $ref: '#/responses/200Successfully'
+        '400':
+          $ref: '#/responses/400Error'
+        '500':
+          $ref: '#/responses/500Error'
+definitions:
+  ErrorResponse:
+    type: object
+    properties:
+      statusCode:
+        type: integer
+      timestamp:
+        type: string
+      message:
+        type: string
+      description:
+        type: string
+responses:
+  200Successfully:
+    description: Successful operation
+  400Error:
+    description: Bad request
+    schema:
+      $ref: '#/definitions/ErrorResponse'
+  500Error:
+    description: Internal Server Error
+    schema:
+      $ref: '#/definitions/ErrorResponse'

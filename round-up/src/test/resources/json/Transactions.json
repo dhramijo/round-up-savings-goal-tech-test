@@ -1,0 +1,1276 @@
+{
+  "feedItems": [
+    {
+      "feedItemUid": "2c31d3c7-b3ea-4ed7-86ab-56545ac45bb4",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 803
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 803
+      },
+      "direction": "OUT",
+      "updatedAt": "2022-11-08T13:37:36.272Z",
+      "transactionTime": "2022-11-08T13:37:35.274Z",
+      "settlementTime": "2022-11-08T13:37:36.165Z",
+      "source": "FASTER_PAYMENTS_OUT",
+      "status": "SETTLED",
+      "transactingApplicationUserUid": "ee95d5c7-1774-410c-96a8-00c1f61e6b4d",
+      "counterPartyType": "PAYEE",
+      "counterPartyUid": "986e77f3-1e35-4248-a705-043b62df43ce",
+      "counterPartyName": "Mickey Mouse",
+      "counterPartySubEntityUid": "da82f5a2-d1ac-45bd-ae7a-378426fff085",
+      "counterPartySubEntityName": "UK account",
+      "counterPartySubEntityIdentifier": "204514",
+      "counterPartySubEntitySubIdentifier": "00000825",
+      "reference": "External Payment",
+      "country": "GB",
+      "spendingCategory": "PAYMENTS",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c317ac9-026d-45ce-8e8c-5366d89a320e",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 3049
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 3049
+      },
+      "direction": "OUT",
+      "updatedAt": "2022-11-08T13:37:36.132Z",
+      "transactionTime": "2022-11-08T13:37:35.138Z",
+      "settlementTime": "2022-11-08T13:37:36.038Z",
+      "source": "FASTER_PAYMENTS_OUT",
+      "status": "SETTLED",
+      "transactingApplicationUserUid": "ee95d5c7-1774-410c-96a8-00c1f61e6b4d",
+      "counterPartyType": "PAYEE",
+      "counterPartyUid": "bb579d3e-5cb1-4423-843b-f891204816f1",
+      "counterPartyName": "Mickey Mouse",
+      "counterPartySubEntityUid": "78668310-4967-4a21-a1ed-1b39fa7fe18a",
+      "counterPartySubEntityName": "UK account",
+      "counterPartySubEntityIdentifier": "204514",
+      "counterPartySubEntitySubIdentifier": "00000825",
+      "reference": "External Payment",
+      "country": "GB",
+      "spendingCategory": "PAYMENTS",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c31a3d9-7f3c-46a6-8ba8-1ef869b0d2cf",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 609
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 609
+      },
+      "direction": "OUT",
+      "updatedAt": "2022-11-08T13:37:38.368Z",
+      "transactionTime": "2022-11-08T13:37:35.108Z",
+      "settlementTime": "2022-11-08T13:37:35.784Z",
+      "source": "FASTER_PAYMENTS_OUT",
+      "status": "SETTLED",
+      "transactingApplicationUserUid": "ee95d5c7-1774-410c-96a8-00c1f61e6b4d",
+      "counterPartyType": "PAYEE",
+      "counterPartyUid": "f4394825-1b31-41f7-a9b8-82060939a0bf",
+      "counterPartyName": "Mickey Mouse",
+      "counterPartySubEntityUid": "ade1bbd1-671d-46ad-aa84-b9f1d9f0bdf3",
+      "counterPartySubEntityName": "UK account",
+      "counterPartySubEntityIdentifier": "204514",
+      "counterPartySubEntitySubIdentifier": "00000825",
+      "reference": "External Payment",
+      "country": "GB",
+      "spendingCategory": "PAYMENTS",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c31dfad-5df6-46f4-92bc-9b298e5f9b4e",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 417
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 417
+      },
+      "direction": "IN",
+      "updatedAt": "2022-11-08T13:37:35.306Z",
+      "transactionTime": "2022-11-08T13:37:35.000Z",
+      "settlementTime": "2022-11-08T13:37:35.000Z",
+      "source": "FASTER_PAYMENTS_IN",
+      "status": "SETTLED",
+      "counterPartyType": "SENDER",
+      "counterPartyName": "Faster payment",
+      "counterPartySubEntityName": "",
+      "counterPartySubEntityIdentifier": "600522",
+      "counterPartySubEntitySubIdentifier": "20027699",
+      "reference": "Ref: 5409878383",
+      "country": "GB",
+      "spendingCategory": "INCOME",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c31d41a-1242-46ff-ba04-a646a813fd58",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 469
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 469
+      },
+      "direction": "IN",
+      "updatedAt": "2022-11-08T13:37:35.277Z",
+      "transactionTime": "2022-11-08T13:37:35.000Z",
+      "settlementTime": "2022-11-08T13:37:35.000Z",
+      "source": "FASTER_PAYMENTS_IN",
+      "status": "SETTLED",
+      "counterPartyType": "SENDER",
+      "counterPartyName": "Faster payment",
+      "counterPartySubEntityName": "",
+      "counterPartySubEntityIdentifier": "600522",
+      "counterPartySubEntitySubIdentifier": "20027702",
+      "reference": "Ref: 3896220851",
+      "country": "GB",
+      "spendingCategory": "INCOME",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c31bbbc-67f2-44a8-9f31-1488c4755063",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 3731
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 3731
+      },
+      "direction": "IN",
+      "updatedAt": "2022-11-08T13:37:35.160Z",
+      "transactionTime": "2022-11-08T13:37:35.000Z",
+      "settlementTime": "2022-11-08T13:37:35.000Z",
+      "source": "FASTER_PAYMENTS_IN",
+      "status": "SETTLED",
+      "counterPartyType": "SENDER",
+      "counterPartyName": "Faster payment",
+      "counterPartySubEntityName": "",
+      "counterPartySubEntityIdentifier": "600522",
+      "counterPartySubEntitySubIdentifier": "20027680",
+      "reference": "Ref: 9960624169",
+      "country": "GB",
+      "spendingCategory": "INCOME",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c318225-c57d-46a2-b0ea-b0f5e7254048",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 1897
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 1897
+      },
+      "direction": "OUT",
+      "updatedAt": "2022-11-08T13:37:36.002Z",
+      "transactionTime": "2022-11-08T13:37:34.963Z",
+      "settlementTime": "2022-11-08T13:37:35.901Z",
+      "source": "FASTER_PAYMENTS_OUT",
+      "status": "SETTLED",
+      "transactingApplicationUserUid": "ee95d5c7-1774-410c-96a8-00c1f61e6b4d",
+      "counterPartyType": "PAYEE",
+      "counterPartyUid": "76c612b0-4bd9-4de2-bbc8-54ca934cb7aa",
+      "counterPartyName": "Mickey Mouse",
+      "counterPartySubEntityUid": "0ae4a9fb-418b-4346-b65c-755ce31fb26f",
+      "counterPartySubEntityName": "UK account",
+      "counterPartySubEntityIdentifier": "204514",
+      "counterPartySubEntitySubIdentifier": "00000825",
+      "reference": "External Payment",
+      "country": "GB",
+      "spendingCategory": "PAYMENTS",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c310cc6-4534-4995-9bd9-cf1e7c571b84",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 1803
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 1803
+      },
+      "direction": "OUT",
+      "updatedAt": "2022-11-08T13:37:35.726Z",
+      "transactionTime": "2022-11-08T13:37:34.931Z",
+      "settlementTime": "2022-11-08T13:37:35.646Z",
+      "source": "FASTER_PAYMENTS_OUT",
+      "status": "SETTLED",
+      "transactingApplicationUserUid": "ee95d5c7-1774-410c-96a8-00c1f61e6b4d",
+      "counterPartyType": "PAYEE",
+      "counterPartyUid": "d1c91810-5c29-41a6-aa0f-138b851518ef",
+      "counterPartyName": "Mickey Mouse",
+      "counterPartySubEntityUid": "dd3573e1-3696-4ec2-b643-3b36c11eb8f6",
+      "counterPartySubEntityName": "UK account",
+      "counterPartySubEntityIdentifier": "204514",
+      "counterPartySubEntitySubIdentifier": "00000825",
+      "reference": "External Payment",
+      "country": "GB",
+      "spendingCategory": "PAYMENTS",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c3107e9-6e7d-4e79-b376-188a12c7a1f9",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 1670
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 1670
+      },
+      "direction": "OUT",
+      "updatedAt": "2022-11-08T13:37:35.674Z",
+      "transactionTime": "2022-11-08T13:37:34.901Z",
+      "settlementTime": "2022-11-08T13:37:35.589Z",
+      "source": "FASTER_PAYMENTS_OUT",
+      "status": "SETTLED",
+      "transactingApplicationUserUid": "ee95d5c7-1774-410c-96a8-00c1f61e6b4d",
+      "counterPartyType": "PAYEE",
+      "counterPartyUid": "47a1dadb-bfec-4235-a3af-d04fcb5268e9",
+      "counterPartyName": "Mickey Mouse",
+      "counterPartySubEntityUid": "58064644-a0e9-4f22-b307-9f3e2933cb18",
+      "counterPartySubEntityName": "UK account",
+      "counterPartySubEntityIdentifier": "204514",
+      "counterPartySubEntitySubIdentifier": "00000825",
+      "reference": "External Payment",
+      "country": "GB",
+      "spendingCategory": "PAYMENTS",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c31f5e8-70d5-48c1-a1c4-2ce8e156b611",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 1651
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 1651
+      },
+      "direction": "IN",
+      "updatedAt": "2022-11-08T13:37:35.056Z",
+      "transactionTime": "2022-11-08T13:37:34.000Z",
+      "settlementTime": "2022-11-08T13:37:34.000Z",
+      "source": "FASTER_PAYMENTS_IN",
+      "status": "SETTLED",
+      "counterPartyType": "SENDER",
+      "counterPartyName": "Faster payment",
+      "counterPartySubEntityName": "",
+      "counterPartySubEntityIdentifier": "600522",
+      "counterPartySubEntitySubIdentifier": "20027656",
+      "reference": "Ref: 7848831908",
+      "country": "GB",
+      "spendingCategory": "INCOME",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c312edb-a8b7-48e3-a6d5-c5237635d101",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 50000
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 50000
+      },
+      "direction": "IN",
+      "updatedAt": "2022-11-08T13:37:34.439Z",
+      "transactionTime": "2022-11-08T13:37:34.000Z",
+      "settlementTime": "2022-11-08T13:37:34.000Z",
+      "source": "FASTER_PAYMENTS_IN",
+      "status": "SETTLED",
+      "counterPartyType": "SENDER",
+      "counterPartyName": "Faster payment",
+      "counterPartySubEntityName": "",
+      "counterPartySubEntityIdentifier": "600522",
+      "counterPartySubEntitySubIdentifier": "20027583",
+      "reference": "Ref: 7628949036",
+      "country": "GB",
+      "spendingCategory": "INCOME",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c317b0c-ebb1-4f28-baba-baa6c6276c5d",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 200000
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 200000
+      },
+      "direction": "IN",
+      "updatedAt": "2022-11-08T13:37:34.653Z",
+      "transactionTime": "2022-11-08T13:37:34.000Z",
+      "settlementTime": "2022-11-08T13:37:34.000Z",
+      "source": "FASTER_PAYMENTS_IN",
+      "status": "SETTLED",
+      "counterPartyType": "SENDER",
+      "counterPartyName": "Faster payment",
+      "counterPartySubEntityName": "",
+      "counterPartySubEntityIdentifier": "600522",
+      "counterPartySubEntitySubIdentifier": "20027605",
+      "reference": "Ref: 4618528150",
+      "country": "GB",
+      "spendingCategory": "INCOME",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c3197ac-82e5-4877-87e3-ee9a266b5033",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 3636
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 3636
+      },
+      "direction": "IN",
+      "updatedAt": "2022-11-08T13:37:34.911Z",
+      "transactionTime": "2022-11-08T13:37:34.000Z",
+      "settlementTime": "2022-11-08T13:37:34.000Z",
+      "source": "FASTER_PAYMENTS_IN",
+      "status": "SETTLED",
+      "counterPartyType": "SENDER",
+      "counterPartyName": "Faster payment",
+      "counterPartySubEntityName": "",
+      "counterPartySubEntityIdentifier": "600522",
+      "counterPartySubEntitySubIdentifier": "20027621",
+      "reference": "Ref: 7777664218",
+      "country": "GB",
+      "spendingCategory": "INCOME",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c313e2f-447f-4bef-a096-79deb84a31a9",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 2696
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 2696
+      },
+      "direction": "IN",
+      "updatedAt": "2022-11-08T13:37:34.935Z",
+      "transactionTime": "2022-11-08T13:37:34.000Z",
+      "settlementTime": "2022-11-08T13:37:34.000Z",
+      "source": "FASTER_PAYMENTS_IN",
+      "status": "SETTLED",
+      "counterPartyType": "SENDER",
+      "counterPartyName": "Faster payment",
+      "counterPartySubEntityName": "",
+      "counterPartySubEntityIdentifier": "600522",
+      "counterPartySubEntitySubIdentifier": "20027648",
+      "reference": "Ref: 4971421094",
+      "country": "GB",
+      "spendingCategory": "INCOME",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c31dded-034d-4043-870b-1598c1c2bd9b",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 3261
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 3261
+      },
+      "direction": "OUT",
+      "updatedAt": "2022-11-08T13:37:16.406Z",
+      "transactionTime": "2022-11-08T13:37:15.591Z",
+      "settlementTime": "2022-11-08T13:37:16.325Z",
+      "source": "FASTER_PAYMENTS_OUT",
+      "status": "SETTLED",
+      "transactingApplicationUserUid": "ee95d5c7-1774-410c-96a8-00c1f61e6b4d",
+      "counterPartyType": "PAYEE",
+      "counterPartyUid": "4389b064-fcc2-4da9-916a-6a9a1a08566e",
+      "counterPartyName": "Mickey Mouse",
+      "counterPartySubEntityUid": "2a843f09-6d61-4c5f-beea-4f873d5c378d",
+      "counterPartySubEntityName": "UK account",
+      "counterPartySubEntityIdentifier": "204514",
+      "counterPartySubEntitySubIdentifier": "00000825",
+      "reference": "External Payment",
+      "country": "GB",
+      "spendingCategory": "PAYMENTS",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c31218f-28cd-4cae-8d05-f7a11815f966",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 2974
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 2974
+      },
+      "direction": "OUT",
+      "updatedAt": "2022-11-08T13:37:16.274Z",
+      "transactionTime": "2022-11-08T13:37:15.558Z",
+      "settlementTime": "2022-11-08T13:37:16.139Z",
+      "source": "FASTER_PAYMENTS_OUT",
+      "status": "SETTLED",
+      "transactingApplicationUserUid": "ee95d5c7-1774-410c-96a8-00c1f61e6b4d",
+      "counterPartyType": "PAYEE",
+      "counterPartyUid": "deba1b33-12b5-4f67-a3fc-48d4333d3565",
+      "counterPartyName": "Mickey Mouse",
+      "counterPartySubEntityUid": "d50be7f7-32f3-4775-9fe5-ad59ed566730",
+      "counterPartySubEntityName": "UK account",
+      "counterPartySubEntityIdentifier": "204514",
+      "counterPartySubEntitySubIdentifier": "00000825",
+      "reference": "External Payment",
+      "country": "GB",
+      "spendingCategory": "PAYMENTS",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c319510-edd7-465f-8477-309e3f0b7195",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 375
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 375
+      },
+      "direction": "OUT",
+      "updatedAt": "2022-11-08T13:37:16.221Z",
+      "transactionTime": "2022-11-08T13:37:15.439Z",
+      "settlementTime": "2022-11-08T13:37:16.128Z",
+      "source": "FASTER_PAYMENTS_OUT",
+      "status": "SETTLED",
+      "transactingApplicationUserUid": "ee95d5c7-1774-410c-96a8-00c1f61e6b4d",
+      "counterPartyType": "PAYEE",
+      "counterPartyUid": "d86cb013-8eaa-4a93-888b-66414dd57eab",
+      "counterPartyName": "Mickey Mouse",
+      "counterPartySubEntityUid": "921a0a87-31fc-49b5-81ad-a2bc2438fa0b",
+      "counterPartySubEntityName": "UK account",
+      "counterPartySubEntityIdentifier": "204514",
+      "counterPartySubEntitySubIdentifier": "00000825",
+      "reference": "External Payment",
+      "country": "GB",
+      "spendingCategory": "PAYMENTS",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c31b9b0-c681-4bab-a745-53b74d2aa3a4",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 1626
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 1626
+      },
+      "direction": "OUT",
+      "updatedAt": "2022-11-08T13:37:16.451Z",
+      "transactionTime": "2022-11-08T13:37:15.405Z",
+      "settlementTime": "2022-11-08T13:37:16.359Z",
+      "source": "FASTER_PAYMENTS_OUT",
+      "status": "SETTLED",
+      "transactingApplicationUserUid": "ee95d5c7-1774-410c-96a8-00c1f61e6b4d",
+      "counterPartyType": "PAYEE",
+      "counterPartyUid": "894ddc3f-1337-4a93-a6a4-6f92e51735a6",
+      "counterPartyName": "Mickey Mouse",
+      "counterPartySubEntityUid": "4a36cf5c-9ee6-4c6c-806c-711fdb81d54f",
+      "counterPartySubEntityName": "UK account",
+      "counterPartySubEntityIdentifier": "204514",
+      "counterPartySubEntitySubIdentifier": "00000825",
+      "reference": "External Payment",
+      "country": "GB",
+      "spendingCategory": "PAYMENTS",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c31ee45-f3bb-409f-b854-69f70de1588f",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 2691
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 2691
+      },
+      "direction": "OUT",
+      "updatedAt": "2022-11-08T13:37:15.867Z",
+      "transactionTime": "2022-11-08T13:37:15.291Z",
+      "settlementTime": "2022-11-08T13:37:15.782Z",
+      "source": "FASTER_PAYMENTS_OUT",
+      "status": "SETTLED",
+      "transactingApplicationUserUid": "ee95d5c7-1774-410c-96a8-00c1f61e6b4d",
+      "counterPartyType": "PAYEE",
+      "counterPartyUid": "ebb4c040-25c0-4bd2-9155-22b26fe59a58",
+      "counterPartyName": "Mickey Mouse",
+      "counterPartySubEntityUid": "d8719c97-b267-419a-acac-01e7af52b688",
+      "counterPartySubEntityName": "UK account",
+      "counterPartySubEntityIdentifier": "204514",
+      "counterPartySubEntitySubIdentifier": "00000825",
+      "reference": "External Payment",
+      "country": "GB",
+      "spendingCategory": "PAYMENTS",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c316593-a2b7-453a-87c6-d7a0aba031d5",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 257
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 257
+      },
+      "direction": "OUT",
+      "updatedAt": "2022-11-08T13:37:15.762Z",
+      "transactionTime": "2022-11-08T13:37:15.232Z",
+      "settlementTime": "2022-11-08T13:37:15.657Z",
+      "source": "FASTER_PAYMENTS_OUT",
+      "status": "SETTLED",
+      "transactingApplicationUserUid": "ee95d5c7-1774-410c-96a8-00c1f61e6b4d",
+      "counterPartyType": "PAYEE",
+      "counterPartyUid": "27b20e01-67e2-4225-8a10-c74c6d75080c",
+      "counterPartyName": "Mickey Mouse",
+      "counterPartySubEntityUid": "141b8dfa-a38f-4b57-81d2-dddc83a2f3b4",
+      "counterPartySubEntityName": "UK account",
+      "counterPartySubEntityIdentifier": "204514",
+      "counterPartySubEntitySubIdentifier": "00000825",
+      "reference": "External Payment",
+      "country": "GB",
+      "spendingCategory": "PAYMENTS",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c3169f7-1de3-4a25-93b6-296f8cc97081",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 3555
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 3555
+      },
+      "direction": "IN",
+      "updatedAt": "2022-11-08T13:37:15.397Z",
+      "transactionTime": "2022-11-08T13:37:15.000Z",
+      "settlementTime": "2022-11-08T13:37:15.000Z",
+      "source": "FASTER_PAYMENTS_IN",
+      "status": "SETTLED",
+      "counterPartyType": "SENDER",
+      "counterPartyName": "Faster payment",
+      "counterPartySubEntityName": "",
+      "counterPartySubEntityIdentifier": "600522",
+      "counterPartySubEntitySubIdentifier": "20026048",
+      "reference": "Ref: 2645744216",
+      "country": "GB",
+      "spendingCategory": "INCOME",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c31c14e-edb2-4a73-932f-b78465f72215",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 1191
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 1191
+      },
+      "direction": "IN",
+      "updatedAt": "2022-11-08T13:37:15.600Z",
+      "transactionTime": "2022-11-08T13:37:15.000Z",
+      "settlementTime": "2022-11-08T13:37:15.000Z",
+      "source": "FASTER_PAYMENTS_IN",
+      "status": "SETTLED",
+      "counterPartyType": "SENDER",
+      "counterPartyName": "Faster payment",
+      "counterPartySubEntityName": "",
+      "counterPartySubEntityIdentifier": "600522",
+      "counterPartySubEntitySubIdentifier": "20026080",
+      "reference": "Ref: 4009146550",
+      "country": "GB",
+      "spendingCategory": "INCOME",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c31d920-577b-4a08-be07-e45471a0c43e",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 3667
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 3667
+      },
+      "direction": "IN",
+      "updatedAt": "2022-11-08T13:37:15.595Z",
+      "transactionTime": "2022-11-08T13:37:15.000Z",
+      "settlementTime": "2022-11-08T13:37:15.000Z",
+      "source": "FASTER_PAYMENTS_IN",
+      "status": "SETTLED",
+      "counterPartyType": "SENDER",
+      "counterPartyName": "Faster payment",
+      "counterPartySubEntityName": "",
+      "counterPartySubEntityIdentifier": "600522",
+      "counterPartySubEntitySubIdentifier": "20026064",
+      "reference": "Ref: 2778244878",
+      "country": "GB",
+      "spendingCategory": "INCOME",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c318484-57ea-41c4-a4b4-05f78a779fb7",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 802
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 802
+      },
+      "direction": "IN",
+      "updatedAt": "2022-11-08T13:37:15.270Z",
+      "transactionTime": "2022-11-08T13:37:15.000Z",
+      "settlementTime": "2022-11-08T13:37:15.000Z",
+      "source": "FASTER_PAYMENTS_IN",
+      "status": "SETTLED",
+      "counterPartyType": "SENDER",
+      "counterPartyName": "Faster payment",
+      "counterPartySubEntityName": "",
+      "counterPartySubEntityIdentifier": "600522",
+      "counterPartySubEntitySubIdentifier": "20026013",
+      "reference": "Ref: 9841680120",
+      "country": "GB",
+      "spendingCategory": "INCOME",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c316c08-f1c8-42a5-b6f6-dc34d4d33913",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 2539
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 2539
+      },
+      "direction": "IN",
+      "updatedAt": "2022-11-08T13:37:15.198Z",
+      "transactionTime": "2022-11-08T13:37:15.000Z",
+      "settlementTime": "2022-11-08T13:37:15.000Z",
+      "source": "FASTER_PAYMENTS_IN",
+      "status": "SETTLED",
+      "counterPartyType": "SENDER",
+      "counterPartyName": "Faster payment",
+      "counterPartySubEntityName": "",
+      "counterPartySubEntityIdentifier": "600522",
+      "counterPartySubEntitySubIdentifier": "20026005",
+      "reference": "Ref: 1066996090",
+      "country": "GB",
+      "spendingCategory": "INCOME",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c31b7c3-b385-44ac-85a7-263b2f46b450",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 1724
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 1724
+      },
+      "direction": "IN",
+      "updatedAt": "2022-11-08T13:37:15.447Z",
+      "transactionTime": "2022-11-08T13:37:15.000Z",
+      "settlementTime": "2022-11-08T13:37:15.000Z",
+      "source": "FASTER_PAYMENTS_IN",
+      "status": "SETTLED",
+      "counterPartyType": "SENDER",
+      "counterPartyName": "Faster payment",
+      "counterPartySubEntityName": "",
+      "counterPartySubEntityIdentifier": "600522",
+      "counterPartySubEntitySubIdentifier": "20026056",
+      "reference": "Ref: 2619242138",
+      "country": "GB",
+      "spendingCategory": "INCOME",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c3177d0-4adc-46aa-b60e-13ca1de60762",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 200000
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 200000
+      },
+      "direction": "IN",
+      "updatedAt": "2022-11-08T13:37:14.950Z",
+      "transactionTime": "2022-11-08T13:37:14.000Z",
+      "settlementTime": "2022-11-08T13:37:14.000Z",
+      "source": "FASTER_PAYMENTS_IN",
+      "status": "SETTLED",
+      "counterPartyType": "SENDER",
+      "counterPartyName": "Faster payment",
+      "counterPartySubEntityName": "",
+      "counterPartySubEntityIdentifier": "600522",
+      "counterPartySubEntitySubIdentifier": "20025971",
+      "reference": "Ref: 2396121202",
+      "country": "GB",
+      "spendingCategory": "INCOME",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c3189b9-1ddc-41b4-9d96-8a5f548517ab",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 50000
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 50000
+      },
+      "direction": "IN",
+      "updatedAt": "2022-11-08T13:37:14.671Z",
+      "transactionTime": "2022-11-08T13:37:14.000Z",
+      "settlementTime": "2022-11-08T13:37:14.000Z",
+      "source": "FASTER_PAYMENTS_IN",
+      "status": "SETTLED",
+      "counterPartyType": "SENDER",
+      "counterPartyName": "Faster payment",
+      "counterPartySubEntityName": "",
+      "counterPartySubEntityIdentifier": "600522",
+      "counterPartySubEntitySubIdentifier": "20025955",
+      "reference": "Ref: 0164120610",
+      "country": "GB",
+      "spendingCategory": "INCOME",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c0cf44b-739a-4899-9c3d-26033de25285",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 3717
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 3717
+      },
+      "direction": "OUT",
+      "updatedAt": "2022-11-08T13:00:32.498Z",
+      "transactionTime": "2022-11-08T13:00:29.265Z",
+      "settlementTime": "2022-11-08T13:00:29.942Z",
+      "source": "FASTER_PAYMENTS_OUT",
+      "status": "SETTLED",
+      "transactingApplicationUserUid": "ee95d5c7-1774-410c-96a8-00c1f61e6b4d",
+      "counterPartyType": "PAYEE",
+      "counterPartyUid": "7f56337d-57c9-4e1f-9ad9-53f42b546709",
+      "counterPartyName": "Mickey Mouse",
+      "counterPartySubEntityUid": "f4ac7f7a-afb4-4781-8fd4-5e88ee3fe0c6",
+      "counterPartySubEntityName": "UK account",
+      "counterPartySubEntityIdentifier": "204514",
+      "counterPartySubEntitySubIdentifier": "00000825",
+      "reference": "External Payment",
+      "country": "GB",
+      "spendingCategory": "PAYMENTS",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c0c168e-e815-4d29-96e2-594a2f8f72d6",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 2126
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 2126
+      },
+      "direction": "OUT",
+      "updatedAt": "2022-11-08T13:00:29.790Z",
+      "transactionTime": "2022-11-08T13:00:29.159Z",
+      "settlementTime": "2022-11-08T13:00:29.700Z",
+      "source": "FASTER_PAYMENTS_OUT",
+      "status": "SETTLED",
+      "transactingApplicationUserUid": "ee95d5c7-1774-410c-96a8-00c1f61e6b4d",
+      "counterPartyType": "PAYEE",
+      "counterPartyUid": "6f1414c1-9606-43c3-bf8b-a9364976f5e5",
+      "counterPartyName": "Mickey Mouse",
+      "counterPartySubEntityUid": "da3aae7b-70c4-4102-9aa1-762c1700ce77",
+      "counterPartySubEntityName": "UK account",
+      "counterPartySubEntityIdentifier": "204514",
+      "counterPartySubEntitySubIdentifier": "00000825",
+      "reference": "External Payment",
+      "country": "GB",
+      "spendingCategory": "PAYMENTS",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c0c8d67-390f-40d5-a35d-3b3149fc7140",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 1427
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 1427
+      },
+      "direction": "OUT",
+      "updatedAt": "2022-11-08T13:00:29.777Z",
+      "transactionTime": "2022-11-08T13:00:29.097Z",
+      "settlementTime": "2022-11-08T13:00:29.671Z",
+      "source": "FASTER_PAYMENTS_OUT",
+      "status": "SETTLED",
+      "transactingApplicationUserUid": "ee95d5c7-1774-410c-96a8-00c1f61e6b4d",
+      "counterPartyType": "PAYEE",
+      "counterPartyUid": "55d0d688-8894-442e-bd67-c2733521afc9",
+      "counterPartyName": "Mickey Mouse",
+      "counterPartySubEntityUid": "2817d0ba-2f21-4aa6-86bc-e290ab1904f1",
+      "counterPartySubEntityName": "UK account",
+      "counterPartySubEntityIdentifier": "204514",
+      "counterPartySubEntitySubIdentifier": "00000825",
+      "reference": "External Payment",
+      "country": "GB",
+      "spendingCategory": "PAYMENTS",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c0c2081-c897-4715-8cc1-c5df6064245a",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 1475
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 1475
+      },
+      "direction": "OUT",
+      "updatedAt": "2022-11-08T13:00:29.539Z",
+      "transactionTime": "2022-11-08T13:00:29.032Z",
+      "settlementTime": "2022-11-08T13:00:29.447Z",
+      "source": "FASTER_PAYMENTS_OUT",
+      "status": "SETTLED",
+      "transactingApplicationUserUid": "ee95d5c7-1774-410c-96a8-00c1f61e6b4d",
+      "counterPartyType": "PAYEE",
+      "counterPartyUid": "f6cfc3bf-f50e-4cc9-b7b4-15312bb8df3d",
+      "counterPartyName": "Mickey Mouse",
+      "counterPartySubEntityUid": "d43c3664-e3ca-41c2-b4f2-65ab75c06d0b",
+      "counterPartySubEntityName": "UK account",
+      "counterPartySubEntityIdentifier": "204514",
+      "counterPartySubEntitySubIdentifier": "00000825",
+      "reference": "External Payment",
+      "country": "GB",
+      "spendingCategory": "PAYMENTS",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c0ce2d7-68d2-43a8-a256-b88cd2959fc0",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 3972
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 3972
+      },
+      "direction": "IN",
+      "updatedAt": "2022-11-08T13:00:29.129Z",
+      "transactionTime": "2022-11-08T13:00:29.000Z",
+      "settlementTime": "2022-11-08T13:00:29.000Z",
+      "source": "FASTER_PAYMENTS_IN",
+      "status": "SETTLED",
+      "counterPartyType": "SENDER",
+      "counterPartyName": "Faster payment",
+      "counterPartySubEntityName": "",
+      "counterPartySubEntityIdentifier": "600522",
+      "counterPartySubEntitySubIdentifier": "20026307",
+      "reference": "Ref: 1106796406",
+      "country": "GB",
+      "spendingCategory": "INCOME",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c0cd03b-c312-4339-b540-018176dd1a1b",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 1580
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 1580
+      },
+      "direction": "IN",
+      "updatedAt": "2022-11-08T13:00:29.300Z",
+      "transactionTime": "2022-11-08T13:00:29.000Z",
+      "settlementTime": "2022-11-08T13:00:29.000Z",
+      "source": "FASTER_PAYMENTS_IN",
+      "status": "SETTLED",
+      "counterPartyType": "SENDER",
+      "counterPartyName": "Faster payment",
+      "counterPartySubEntityName": "",
+      "counterPartySubEntityIdentifier": "600522",
+      "counterPartySubEntitySubIdentifier": "20026331",
+      "reference": "Ref: 0878916810",
+      "country": "GB",
+      "spendingCategory": "INCOME",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c0cb111-548a-4162-afa2-ab022f863719",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 2621
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 2621
+      },
+      "direction": "IN",
+      "updatedAt": "2022-11-08T13:00:29.192Z",
+      "transactionTime": "2022-11-08T13:00:29.000Z",
+      "settlementTime": "2022-11-08T13:00:29.000Z",
+      "source": "FASTER_PAYMENTS_IN",
+      "status": "SETTLED",
+      "counterPartyType": "SENDER",
+      "counterPartyName": "Faster payment",
+      "counterPartySubEntityName": "",
+      "counterPartySubEntityIdentifier": "600522",
+      "counterPartySubEntitySubIdentifier": "20026323",
+      "reference": "Ref: 3565595905",
+      "country": "GB",
+      "spendingCategory": "INCOME",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c0c3292-9fed-4b07-bb03-4658b15b913d",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 637
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 637
+      },
+      "direction": "OUT",
+      "updatedAt": "2022-11-08T13:00:32.325Z",
+      "transactionTime": "2022-11-08T13:00:28.940Z",
+      "settlementTime": "2022-11-08T13:00:32.234Z",
+      "source": "FASTER_PAYMENTS_OUT",
+      "status": "SETTLED",
+      "transactingApplicationUserUid": "ee95d5c7-1774-410c-96a8-00c1f61e6b4d",
+      "counterPartyType": "PAYEE",
+      "counterPartyUid": "c894df29-91e6-45c7-8263-1189cb7c83c4",
+      "counterPartyName": "Mickey Mouse",
+      "counterPartySubEntityUid": "76fafa24-fa87-4c07-bca3-cd63e4464039",
+      "counterPartySubEntityName": "UK account",
+      "counterPartySubEntityIdentifier": "204514",
+      "counterPartySubEntitySubIdentifier": "00000825",
+      "reference": "External Payment",
+      "country": "GB",
+      "spendingCategory": "PAYMENTS",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c0c922f-0b48-42e1-8d55-0ec746da8e0f",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 1538
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 1538
+      },
+      "direction": "OUT",
+      "updatedAt": "2022-11-08T13:00:29.626Z",
+      "transactionTime": "2022-11-08T13:00:28.896Z",
+      "settlementTime": "2022-11-08T13:00:29.530Z",
+      "source": "FASTER_PAYMENTS_OUT",
+      "status": "SETTLED",
+      "transactingApplicationUserUid": "ee95d5c7-1774-410c-96a8-00c1f61e6b4d",
+      "counterPartyType": "PAYEE",
+      "counterPartyUid": "ef34d8da-6d91-4efd-9248-e17095a78725",
+      "counterPartyName": "Mickey Mouse",
+      "counterPartySubEntityUid": "684c3f47-2ef7-4c2e-ba9d-c6353f60ffa4",
+      "counterPartySubEntityName": "UK account",
+      "counterPartySubEntityIdentifier": "204514",
+      "counterPartySubEntitySubIdentifier": "00000825",
+      "reference": "External Payment",
+      "country": "GB",
+      "spendingCategory": "PAYMENTS",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c0cde0a-30f2-4c63-a9e0-578dbbf20e0e",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 3392
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 3392
+      },
+      "direction": "IN",
+      "updatedAt": "2022-11-08T13:00:29.061Z",
+      "transactionTime": "2022-11-08T13:00:28.000Z",
+      "settlementTime": "2022-11-08T13:00:28.000Z",
+      "source": "FASTER_PAYMENTS_IN",
+      "status": "SETTLED",
+      "counterPartyType": "SENDER",
+      "counterPartyName": "Faster payment",
+      "counterPartySubEntityName": "",
+      "counterPartySubEntityIdentifier": "600522",
+      "counterPartySubEntitySubIdentifier": "20026293",
+      "reference": "Ref: 1055400509",
+      "country": "GB",
+      "spendingCategory": "INCOME",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c0cc179-0fc4-46cf-a78d-03ee8ff66bed",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 2336
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 2336
+      },
+      "direction": "IN",
+      "updatedAt": "2022-11-08T13:00:28.908Z",
+      "transactionTime": "2022-11-08T13:00:28.000Z",
+      "settlementTime": "2022-11-08T13:00:28.000Z",
+      "source": "FASTER_PAYMENTS_IN",
+      "status": "SETTLED",
+      "counterPartyType": "SENDER",
+      "counterPartyName": "Faster payment",
+      "counterPartySubEntityName": "",
+      "counterPartySubEntityIdentifier": "600522",
+      "counterPartySubEntitySubIdentifier": "20026277",
+      "reference": "Ref: 8943448511",
+      "country": "GB",
+      "spendingCategory": "INCOME",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c0cf967-dd8e-4f16-8d0f-96e3a601ce80",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 50000
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 50000
+      },
+      "direction": "IN",
+      "updatedAt": "2022-11-08T13:00:28.551Z",
+      "transactionTime": "2022-11-08T13:00:28.000Z",
+      "settlementTime": "2022-11-08T13:00:28.000Z",
+      "source": "FASTER_PAYMENTS_IN",
+      "status": "SETTLED",
+      "counterPartyType": "SENDER",
+      "counterPartyName": "Faster payment",
+      "counterPartySubEntityName": "",
+      "counterPartySubEntityIdentifier": "600522",
+      "counterPartySubEntitySubIdentifier": "20026234",
+      "reference": "Ref: 3012392538",
+      "country": "GB",
+      "spendingCategory": "INCOME",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c0c1c8c-62bf-4186-83f3-90e74ff430f3",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 1994
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 1994
+      },
+      "direction": "IN",
+      "updatedAt": "2022-11-08T13:00:28.963Z",
+      "transactionTime": "2022-11-08T13:00:28.000Z",
+      "settlementTime": "2022-11-08T13:00:28.000Z",
+      "source": "FASTER_PAYMENTS_IN",
+      "status": "SETTLED",
+      "counterPartyType": "SENDER",
+      "counterPartyName": "Faster payment",
+      "counterPartySubEntityName": "",
+      "counterPartySubEntityIdentifier": "600522",
+      "counterPartySubEntitySubIdentifier": "20026285",
+      "reference": "Ref: 4368090215",
+      "country": "GB",
+      "spendingCategory": "INCOME",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    },
+    {
+      "feedItemUid": "2c0c2a3c-250b-40ba-8331-fe4996aa1fe6",
+      "categoryUid": "b15c88bf-7d8d-46ab-a82f-6df9fd55f48a",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 200000
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 200000
+      },
+      "direction": "IN",
+      "updatedAt": "2022-11-08T13:00:28.717Z",
+      "transactionTime": "2022-11-08T13:00:28.000Z",
+      "settlementTime": "2022-11-08T13:00:28.000Z",
+      "source": "FASTER_PAYMENTS_IN",
+      "status": "SETTLED",
+      "counterPartyType": "SENDER",
+      "counterPartyName": "Faster payment",
+      "counterPartySubEntityName": "",
+      "counterPartySubEntityIdentifier": "600522",
+      "counterPartySubEntitySubIdentifier": "20026250",
+      "reference": "Ref: 8193960161",
+      "country": "GB",
+      "spendingCategory": "INCOME",
+      "hasAttachment": false,
+      "hasReceipt": false,
+      "batchPaymentDetails": null
+    }
+  ]
+}
