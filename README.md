@@ -65,7 +65,7 @@ For this project I have used:
 
 ## Running the application
 
-The Token present with this build expires at 19:46 14/11/22.
+The Token present with this build expires at 09:45 15/11/22.
 If the existing token has expired, please do generate a new token from the developer sandbox on Starling Bank's API portal and place it in
 ```
 src/main/resources/application.properties
