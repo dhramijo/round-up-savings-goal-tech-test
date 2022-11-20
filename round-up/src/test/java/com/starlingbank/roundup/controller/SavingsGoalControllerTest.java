@@ -30,8 +30,6 @@ class SavingsGoalControllerTest {
   @Test
   void test_update_savings_goal_amount_updated_successfully_without_dates_specified() throws Exception {
 
-    doNothing().when(savingsGoalAmountService).updateSavingsGoalAmount(any(),any(),anyString());
-
     mvc.perform(get("/api/v1/savings/update-goal-amount")
             .accept(MediaType.APPLICATION_JSON)
             .param("savingsGoalId", "savingsGoalId"))
@@ -42,8 +40,6 @@ class SavingsGoalControllerTest {
 
   @Test
   void test_update_savings_goal_amount_updated_successfully_with_dates_specified() throws Exception {
-
-    doNothing().when(savingsGoalAmountService).updateSavingsGoalAmount(any(),any(),anyString());
 
     mvc.perform(get("/api/v1/savings/update-goal-amount")
             .accept(MediaType.APPLICATION_JSON)
@@ -57,8 +53,6 @@ class SavingsGoalControllerTest {
 
   @Test
   void test_savings_goal_amount_updated_fails_due_to_missing_query_param() throws Exception {
-
-    doNothing().when(savingsGoalAmountService).updateSavingsGoalAmount(any(), any(), anyString());
 
     mvc.perform(get("/api/v1/savings/update-goal-amount")
             .accept(MediaType.APPLICATION_JSON))

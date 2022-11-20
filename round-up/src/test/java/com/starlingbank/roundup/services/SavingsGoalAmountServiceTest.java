@@ -15,16 +15,12 @@ import com.starlingbank.roundup.response.AccountResponse;
 import com.starlingbank.roundup.response.TransactionResponse;
 import com.starlingbank.roundup.utils.ResourceFileLoaderUtils;
 import java.util.List;
-import lombok.RequiredArgsConstructor;
-import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import org.mockito.MockitoAnnotations;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.boot.test.mock.mockito.MockBean;
 
 @SpringBootTest
-@RequiredArgsConstructor(onConstructor_ = @Autowired)
 class SavingsGoalAmountServiceTest {
 
   @MockBean
@@ -41,11 +37,6 @@ class SavingsGoalAmountServiceTest {
 
   @Autowired
   private SavingsGoalAmountService savingsGoalAmountService;
-
-  @BeforeEach
-  public void setUp() {
-    MockitoAnnotations.openMocks(this);
-  }
 
   public static final String SAVINGS_GOAL_ID = "d84b33b2-05cf-4a8f-9b52-6cf95e5ed790";
 
