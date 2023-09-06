@@ -1,7 +1,7 @@
-# Starling Bank - Round Up Savings Goal
+# Round Up Savings Goal
 
 ## The Challenge
-We’d like you to develop a **“round-up”** feature for Starling customers using our public developer API that is available to all customers and partners.
+We’d like you to develop a **“round-up”** feature for Digital banking customers using our public developer API that is available to all customers and partners.
 For a customer, take all the transactions in a given week and round them up to the nearest pound. For example with spending of **£4.35**, **£5.20** and **£0.87**, the round-up would be **£1.58**. This amount should then be transferred into a savings goal, helping the customer save for future adventures.
 
 ## Approach/Assumptions:
@@ -34,7 +34,7 @@ As part of the solution for this challenge, I have made below assumptions:
 
 * Retrieve all the transactions, for the given week, associated to the account.
 
-    * **Starling Endpoint called**  ```https://api-sandbox.starlingbank.com/api/v2/feed/account/0c2a9c84-1fde-4a57-91a4-5590d28e3758/category/b15c88bf-7d8d-46ab-a82f-6df9fd55f48a/transactions-between?minTransactionTimestamp=2022-11-04T15:35:22.801Z&maxTransactionTimestamp=2022-11-11T15:35:22.802Z```
+    * **Endpoint called**  ```https://api-sandbox.starlingbank.com/api/v2/feed/account/0c2a9c84-1fde-4a57-91a4-5590d28e3758/category/b15c88bf-7d8d-46ab-a82f-6df9fd55f48a/transactions-between?minTransactionTimestamp=2022-11-04T15:35:22.801Z&maxTransactionTimestamp=2022-11-11T15:35:22.802Z```
 
 * Calculate the Savings Goal Amount (in MinorUnit)
     * For each transaction the following is processed:
@@ -45,11 +45,11 @@ As part of the solution for this challenge, I have made below assumptions:
 
 * Fetch the Savings Goal Details where we need to add the money calculated from the weekly transactions.
 
-    * **Starling Endpoint called**  ```https://api-sandbox.starlingbank.com/api/v2/account/0c2a9c84-1fde-4a57-91a4-5590d28e3758/savings-goals/d84b33b2-05cf-4a8f-9b52-6cf95e5ed790```
+    * **Endpoint called**  ```https://api-sandbox.starlingbank.com/api/v2/account/0c2a9c84-1fde-4a57-91a4-5590d28e3758/savings-goals/d84b33b2-05cf-4a8f-9b52-6cf95e5ed790```
 
 * Update the Savings Goal Total Saved amount after adding the new value.
 
-    * **Starling Endpoint called**  ```https://api-sandbox.starlingbank.com/api/v2/account/0c2a9c84-1fde-4a57-91a4-5590d28e3758/savings-goals/d84b33b2-05cf-4a8f-9b52-6cf95e5ed790/add-money/3025159c-e22f-4ead-8233-c3bce5ae32f0```
+    * **Endpoint called**  ```https://api-sandbox.starlingbank.com/api/v2/account/0c2a9c84-1fde-4a57-91a4-5590d28e3758/savings-goals/d84b33b2-05cf-4a8f-9b52-6cf95e5ed790/add-money/3025159c-e22f-4ead-8233-c3bce5ae32f0```
 
 
 ## Tech Used
